@@ -1,0 +1,23 @@
+{
+  "name": "ti-student-management-system-pa",
+  "version": "2.0.3",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "Ti-project.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tahira Ibrahim",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/node": "^20.12.8"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.20"
+  }
+}
